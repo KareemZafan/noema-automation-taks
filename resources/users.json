@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "fName": "John",
+      "lName": "Doe",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345",
+      "phone": "555-1234",
+      "ssn": "123-45-6789",
+      "username": "john.doe",
+      "password": "password123"
+    },
+    {
+      "fName": "Jane",
+      "lName": "Smith",
+      "address": "456 Oak St",
+      "city": "Smallville",
+      "state": "NY",
+      "zipCode": "67890",
+      "phone": "555-5678",
+      "ssn": "987-65-4321",
+      "username": "jane.smith",
+      "password": "secure456"
+    },
+    {
+      "fName": "Kareem",
+      "lName": "Mohamed",
+      "address": "789 Pine St",
+      "city": "Villageville",
+      "state": "TX",
+      "zipCode": "54321",
+      "phone": "555-9876",
+      "ssn": "543-21-9876",
+      "username": "kareem",
+      "password": "pass789"
+    },
+    {
+      "fName": "Kareem",
+      "lName": "Mohamed",
+      "address": "789 Pine St",
+      "city": "Villageville",
+      "state": "TX",
+      "zipCode": "54321",
+      "phone": "555-9876",
+      "ssn": "543-21-9876",
+      "username": "kar1236",
+      "password": "pass789"
+    }
+  ]
+}
