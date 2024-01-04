@@ -29,13 +29,19 @@ accessible at https://parabank.parasoft.com/parabank/index.htm.
    ```install node package manager
    npm install
    ```
+   ``` install playwright
+   npm init playwright@latest
+   ```
 
 ## Running Container, opening website locally 
 
 - To run the tests, make sure the Parabank web application is running locally using Docker:
 
  ```bash
- docker-compose -f docker-compose-parabank.yml up
+  docker-compose -f docker-compose-parabank.yml up
+ ```
+ ```
+  http://localhost:8080/parabank/
  ```
 
 ## Folder Structure
